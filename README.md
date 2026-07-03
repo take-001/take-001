@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/polytope_projection_animation.gif" alt="Polytope projection animation" width="100%" />
+</p>
 
 <!--
 **take-001/take-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
